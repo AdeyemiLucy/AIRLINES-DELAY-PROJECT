@@ -1,7 +1,11 @@
 # AIRLINES-DELAY-PROJECT
 This is my submission for the NG30Days of learning capstone Project.
 
-DATA COLLECTION
+# PROJECT DESCRIPTION
+
+The dataset for this project is on the delay of flight services provided by 18 airlines. Information covered in the dataset were the flight Id, time spent, length of travel, day of travel, the source and destination airports. This projects aims at finding the cause and patterns of delay in flights.
+
+# DATA COLLECTION
 
 The datset was gotten from https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv which was originally sourced from https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay. 
 
@@ -42,30 +46,30 @@ This will be categorized into three.
 
  43% of the total flights across all airlines were delayed with value of 558million
  
- OO airline had the highest number of flights and HA had the least
+ Skywest Airlines(OO) had the highest number of flights and Hawaiian Airlines(HA) had the least
 
 Most delays in flights happened on Tuesdays and Wednesdays across all airlines
  
 **TOP FIVE DELAYED FLIGHTS**
 
-OO airline had the highest number of delayed flights despite being the airline with the highest third travelling distance and EV airline follows the same pattern..
+Skywest airlines(OO) had the highest number of delayed flights despite being the airline with the highest third travelling distance and ExpressJet Airlines(EV) follows the same pattern.
 
-WN airline had the highest number of delayed flights by distance but the second highest by number of flights and the same pattern can be seen with DL airline.
+Southwest Airlines(WN)  had the highest number of delayed flights by distance but the second highest by number of flights and the same pattern can be seen with Delta Airlines(DL) .
 
-Based on the total time of flights, WN had highest delayed flights and OO airline comes in third place with EV airline having the least delayed flights.
+Based on the total time of flights, Southwest Airlines(WN) had highest delayed flights and Skywest airlines(OO) comes in third place with ExpressJet Airlines(EV) having the least delayed flights.
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/107184353/179991899-12b4d0be-29aa-40e5-8f74-e6e6b83fa9b2.png)
 
 **BOTTOM FIVE DELAYED FLIGHTS**
 
-HA airlines had the least delayed flights based on the travelling distance and and total time of travel.
+Hawaiian Airlines(HA) had the least delayed flights based on the travelling distance and and total time of travel.
 
 Also, it was observed that the least delayed flights retained their positions regardless of the time and length of travel.
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/107184353/179992205-b6d626c0-4780-4dc8-8e47-985ab89d560a.png)
 
 # RECOMMENDATIONS
- Airlines should reduce the number of flong distance flights because time reduction for such flights might be difficult as they are long distance travels
+ Airlines should reduce the number of long distance flights because time reduction for such flights might be difficult as they are long distance travels
 
 Airports and airlines should make preventive against flight delays and management plans for passengers  against Tuesdays and Wednesdays due to the high number of  delayed flghts
 
