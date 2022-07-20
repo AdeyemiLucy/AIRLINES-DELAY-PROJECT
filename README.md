@@ -19,12 +19,13 @@ Moving on , the dataset was sorted based on the number of flights in a descendin
 
 Then, the total flights daily and by each airline and was gotten using the "SUMIFS" function
 ![Screenshot (10)](https://user-images.githubusercontent.com/107184353/179973920-1616ec2e-739d-4d08-b634-9c235569e8fd.png)
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/107184353/179973929-6a032e5e-41ac-41dc-bc63-848e964c8bce.png)
 
 VISUALIZATION
 All the data in each sheet were converted into tables and then imported into power bi for visualization. Two dashboards were created. The first dashboard is an anlysis on the daily delay of flights and  top 5 airlines with the  highest number of delayed flights. The second dashboard provides insight on the lowest number of delayed flights and undelayed flights.
 
-#FINDINGS
+# FINDINGS
 This will be categorized into three
 **GENERAL**
  43% of the total flights across all airlines were delayed with value of 558million
@@ -43,7 +44,7 @@ Also, it was observed that the least delayed flights retained their positions re
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/107184353/179992205-b6d626c0-4780-4dc8-8e47-985ab89d560a.png)
 
-#RECOMMENDATIONS
+# RECOMMENDATIONS
 Airlines should reduce the number of flong distance flights because time reduction for such flights might be difficult as they are long distance travels
 Airports and airlines should make preventive against flight delays and management plans for passengers  against Tuesdays and Wednesdays due to the high number of  delayed flghts
 Also, airplanes that travel long distane should be well maintained becuase they contribute the most to delay in flights. Therefore , a fault will result in even        more delays
