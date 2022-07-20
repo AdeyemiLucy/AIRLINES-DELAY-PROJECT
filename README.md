@@ -9,6 +9,7 @@ The datset was gotten from https://github.com/theoyinbooke/30Days-of-Learning-Da
 **TOOLS USED:**
 
 Microsoft excel
+
 Power bi
 
 **DATA CLEANING**
@@ -35,6 +36,7 @@ All the data in each sheet were converted into tables and then imported into pow
 This will be categorized into three.
 
 ** GENERAL**
+
  43% of the total flights across all airlines were delayed with value of 558million
  
  OO airline had the highest number of flights and HA had the least
@@ -54,6 +56,7 @@ Based on the total time of flights, WN had highest delayed flights and OO airlin
 **BOTTOM FIVE DELAYED FLIGHTS**
 
 HA airlines had the least delayed flights based on the travelling distance and and total time of travel.
+
 Also, it was observed that the least delayed flights retained their positions regardless of the time and length of travel.
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/107184353/179992205-b6d626c0-4780-4dc8-8e47-985ab89d560a.png)
