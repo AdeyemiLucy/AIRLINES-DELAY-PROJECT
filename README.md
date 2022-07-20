@@ -26,11 +26,13 @@ VISUALIZATION
 All the data in each sheet were converted into tables and then imported into power bi for visualization. Two dashboards were created. The first dashboard is an anlysis on the daily delay of flights and  top 5 airlines with the  highest number of delayed flights. The second dashboard provides insight on the lowest number of delayed flights and undelayed flights.
 
 # FINDINGS
-This will be categorized into three
-**GENERAL**
+This will be categorized into three.
+
+# GENERAL
  43% of the total flights across all airlines were delayed with value of 558million
  OO airline had the highest number of flights and HA had the least
  Most delays in flights happened on Tuesdays and Wednesdays across all airlines
+ 
 **TOP FIVE DELAYED FLIGHTS**
 OO airline had the highest number of delayed flights despite being the airline with the highest third travelling distance and EV airline follows the same pattern
 WN airline had the highest number of delayed flights by distance but the second highest by number of flights and the same pattern can be seen with DL airline
@@ -39,6 +41,7 @@ Based on the total time of flights, WN had highest delayed flights and OO airlin
 ![Screenshot (14)](https://user-images.githubusercontent.com/107184353/179991899-12b4d0be-29aa-40e5-8f74-e6e6b83fa9b2.png)
 
 **BOTTOM FIVE DELAYED FLIGHTS**
+
 HA airlines had the least delayed flights based on the travelling distance and and total time of travel.
 Also, it was observed that the least delayed flights retained their positions regardless of the time and length of travel.
 
