@@ -6,11 +6,12 @@ The datset was gotten from https://github.com/theoyinbooke/30Days-of-Learning-Da
 
 # DATA CLEANING AND TRANSFORMATION
 
-TOOLS USED:
-Microsoft excel.
-Power bi.
+**TOOLS USED:**
 
-DATA CLEANING
+Microsoft excel
+Power bi
+
+**DATA CLEANING**
 The dataset was cleaned using Microsoft excel starting.The first step carried out was to duplicate the dataset and the duplicated copy was worked on. Using the find icon to check for empty cells, it showed that there were no empty cells in the dataset . The "TEXT" function was used to extract the days of the weeks from the numbers provided.
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/107184353/179972377-923bea22-f7fd-48d0-865e-0094437cfe0f.png)
@@ -33,7 +34,7 @@ All the data in each sheet were converted into tables and then imported into pow
 # FINDINGS
 This will be categorized into three.
 
-# GENERAL
+** GENERAL**
  43% of the total flights across all airlines were delayed with value of 558million
  
  OO airline had the highest number of flights and HA had the least
@@ -59,8 +60,11 @@ Also, it was observed that the least delayed flights retained their positions re
 
 # RECOMMENDATIONS
 Airlines should reduce the number of flong distance flights because time reduction for such flights might be difficult as they are long distance travels
+
 Airports and airlines should make preventive against flight delays and management plans for passengers  against Tuesdays and Wednesdays due to the high number of  delayed flghts
+
 Also, airplanes that travel long distane should be well maintained becuase they contribute the most to delay in flights. Therefore , a fault will result in even        more delays
+
 Above all, airlines and airports should always manage the number of flights relative to the time spent and distance travelled as this is the biggest factor in flight delays as shown in the analysis.
 
 
