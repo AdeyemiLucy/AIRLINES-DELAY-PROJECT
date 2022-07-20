@@ -1,13 +1,18 @@
 # AIRLINES-DELAY-PROJECT
-This is my submission for the NG30Days of learning capstone Project. 
+This is my submission for the NG30Days of learning capstone Project.
+
 DATA COLLECTION
 The datset was gotten from https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv which was originally sourced from https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay. 
+
 # DATA CLEANING AND TRANSFORMATION
+
 TOOLS USED:
-Microsoft excel
-Power bi
+Microsoft excel.
+Power bi.
+
 DATA CLEANING
 The dataset was cleaned using Microsoft excel starting.The first step carried out was to duplicate the dataset and the duplicated copy was worked on. Using the find icon to check for empty cells, it showed that there were no empty cells in the dataset . The "TEXT" function was used to extract the days of the weeks from the numbers provided.
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/107184353/179972377-923bea22-f7fd-48d0-865e-0094437cfe0f.png)
 
 Then, the logical function "IF" was used to display the status of the flights as it was provided also in numbers.
