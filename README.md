@@ -21,6 +21,7 @@ Then, the logical function "IF" was used to display the status of the flights as
 ![Screenshot (9)](https://user-images.githubusercontent.com/107184353/179972664-f644ac65-bf53-41ff-a75c-0683f45496ee.png)
 
 Moving on , the dataset was sorted based on the number of flights in a descending order after which redundant information was seperated from the dataset. This was done by copying the following columns into different sheets, removing all duplicates and retaining the unique values.
+
 1.Airline
 2.Day of week
 
@@ -62,13 +63,13 @@ Also, it was observed that the least delayed flights retained their positions re
 ![Screenshot (15)](https://user-images.githubusercontent.com/107184353/179992205-b6d626c0-4780-4dc8-8e47-985ab89d560a.png)
 
 # RECOMMENDATIONS
-**.** Airlines should reduce the number of flong distance flights because time reduction for such flights might be difficult as they are long distance travels
+ Airlines should reduce the number of flong distance flights because time reduction for such flights might be difficult as they are long distance travels
 
-**.** Airports and airlines should make preventive against flight delays and management plans for passengers  against Tuesdays and Wednesdays due to the high number of  delayed flghts
+Airports and airlines should make preventive against flight delays and management plans for passengers  against Tuesdays and Wednesdays due to the high number of  delayed flghts
 
-**.** Also, airplanes that travel long distane should be well maintained becuase they contribute the most to delay in flights. Therefore , a fault will result in even        more delays
+ Also, airplanes that travel long distane should be well maintained becuase they contribute the most to delay in flights. Therefore , a fault will result in even        more delays
 
-**.** Above all, airlines and airports should always manage the number of flights relative to the time spent and distance travelled as this is the biggest factor in flight delays as shown in the analysis.
+ Above all, airlines and airports should always manage the number of flights relative to the time spent and distance travelled as this is the biggest factor in flight delays as shown in the analysis.
 
 
 
