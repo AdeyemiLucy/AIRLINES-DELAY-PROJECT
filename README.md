@@ -30,13 +30,17 @@ This will be categorized into three.
 
 # GENERAL
  43% of the total flights across all airlines were delayed with value of 558million
+ 
  OO airline had the highest number of flights and HA had the least
- Most delays in flights happened on Tuesdays and Wednesdays across all airlines
+
+Most delays in flights happened on Tuesdays and Wednesdays across all airlines
  
 **TOP FIVE DELAYED FLIGHTS**
 
-OO airline had the highest number of delayed flights despite being the airline with the highest third travelling distance and EV airline follows the same pattern
-WN airline had the highest number of delayed flights by distance but the second highest by number of flights and the same pattern can be seen with DL airline
+OO airline had the highest number of delayed flights despite being the airline with the highest third travelling distance and EV airline follows the same pattern..
+
+WN airline had the highest number of delayed flights by distance but the second highest by number of flights and the same pattern can be seen with DL airline.
+
 Based on the total time of flights, WN had highest delayed flights and OO airline comes in third place with EV airline having the least delayed flights.
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/107184353/179991899-12b4d0be-29aa-40e5-8f74-e6e6b83fa9b2.png)
