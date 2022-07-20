@@ -34,6 +34,7 @@ This will be categorized into three.
  Most delays in flights happened on Tuesdays and Wednesdays across all airlines
  
 **TOP FIVE DELAYED FLIGHTS**
+
 OO airline had the highest number of delayed flights despite being the airline with the highest third travelling distance and EV airline follows the same pattern
 WN airline had the highest number of delayed flights by distance but the second highest by number of flights and the same pattern can be seen with DL airline
 Based on the total time of flights, WN had highest delayed flights and OO airline comes in third place with EV airline having the least delayed flights.
