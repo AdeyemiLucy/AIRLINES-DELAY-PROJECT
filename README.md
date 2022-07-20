@@ -2,6 +2,7 @@
 This is my submission for the NG30Days of learning capstone Project.
 
 DATA COLLECTION
+
 The datset was gotten from https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv which was originally sourced from https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay. 
 
 # DATA CLEANING AND TRANSFORMATION
@@ -23,6 +24,7 @@ Then, the logical function "IF" was used to display the status of the flights as
 Moving on , the dataset was sorted based on the number of flights in a descending order after which redundant information was seperated from the dataset. This was done by copying the following columns into different sheets, removing all duplicates and retaining the unique values.
 
 1.Airline
+
 2.Day of week
 
 Then, the total flights daily and by each airline and was gotten using the "SUMIFS" function
