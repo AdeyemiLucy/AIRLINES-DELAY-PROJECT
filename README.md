@@ -58,7 +58,7 @@ Southwest Airlines(WN)  had the highest number of delayed flights by distance bu
 
 Based on the total time of flights, Southwest Airlines(WN) had highest delayed flights and Skywest airlines(OO) comes in third place with ExpressJet Airlines(EV) having the least delayed flights.
 
-![Screenshot (14)](https://user-images.githubusercontent.com/107184353/179991899-12b4d0be-29aa-40e5-8f74-e6e6b83fa9b2.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/107184353/180204489-3546d5cd-de3a-466d-8e64-7d101853db5a.png)
 
 **BOTTOM FIVE DELAYED FLIGHTS**
 
@@ -66,7 +66,8 @@ Hawaiian Airlines(HA) had the least delayed flights based on the travelling dist
 
 Also, it was observed that the least delayed flights retained their positions regardless of the time and length of travel.
 
-![Screenshot (15)](https://user-images.githubusercontent.com/107184353/179992205-b6d626c0-4780-4dc8-8e47-985ab89d560a.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/107184353/180204564-b031f1c9-d667-4a90-9332-f0fb50f0badf.png)
+
 
 # RECOMMENDATIONS
  Airlines should reduce the number of long distance flights because time reduction for such flights might be difficult as they are long distance travels
